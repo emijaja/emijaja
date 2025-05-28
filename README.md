@@ -1,20 +1,13 @@
-## Hi, I'm Emijaja 👋
+## Hi there👋, I'm Emijaja.
 
-I'm a software engineer living in a remote city called Okayama in Japan. The Spanish mackerel (sawara) from Okayama is incredibly delicious.
+主にウェブの受託システム開発の会社でバックエンドやフロントエンドのエンジニアとして働いています。
 
-## My Summary
+お酒を飲みすぎると石になります。
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emijaja&theme=calm)
+## Links
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=emijaja&theme=calm)
+[![X](https://img.shields.io/badge/--FFFFFF?style=social&logo=X&label=Follow%20Jataroooooo)](https://twitter.com/Jataroooooo)<br>
 
-## Activities
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=emijaja&theme=calm&utcOffset=8)
-
-## My Trophy　🏆
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=emijaja)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left">
   <a href="https://github.com/yutkat/yutkat/">
